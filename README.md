@@ -1,7 +1,7 @@
 # demo-git
 
 minh 
-
+jsadlkfjlksdf
 alo xin chao ae 
-huy da push
+huy wersh jdsfio
 test push lan 2
