@@ -16,18 +16,12 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebb8b4f3-1228-482c-a573-d8dd2e330191" name="Default Changelist" comment="">
+    <list default="true" id="dabf94c7-82a2-472e-9cfd-b10138d2fac2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,105 +31,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1gRZAd82TPDrp68IuOVtZde96MC" />
+  <component name="ProjectId" id="1gRbeJCozqIw4vILCiiYdcLwx0j" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ebb8b4f3-1228-482c-a573-d8dd2e330191" name="Default Changelist" comment="" />
-      <created>1598079225212</created>
+      <changelist id="dabf94c7-82a2-472e-9cfd-b10138d2fac2" name="Default Changelist" comment="" />
+      <created>1598080445511</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598079225212</updated>
-      <workItem from="1598079227191" duration="1400000" />
+      <updated>1598080445511</updated>
+      <workItem from="1598080446658" duration="415000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="160" y="127" width="1660" height="853" key="DiffContextDialog" timestamp="1598080405084">
-      <screen x="60" y="27" width="1860" height="1053" />
-    </state>
-    <state x="160" y="127" width="1660" height="853" key="DiffContextDialog/60.27.1860.1053@60.27.1860.1053" timestamp="1598080405084" />
-    <state x="714" y="311" key="FileChooserDialogImpl" timestamp="1598079581397">
-      <screen x="60" y="27" width="1860" height="1053" />
-    </state>
-    <state x="714" y="311" key="FileChooserDialogImpl/60.27.1860.1053@60.27.1860.1053" timestamp="1598079581397" />
-    <state x="236" y="121" width="1488" height="879" key="MergeDialog" timestamp="1598079738950">
-      <screen x="60" y="27" width="1860" height="1053" />
-    </state>
-    <state x="236" y="121" width="1488" height="879" key="MergeDialog/60.27.1860.1053@60.27.1860.1053" timestamp="1598079738950" />
-    <state x="615" y="306" width="739" height="501" key="MultipleFileMergeDialog" timestamp="1598079738953">
-      <screen x="60" y="27" width="1860" height="1053" />
-    </state>
-    <state x="615" y="306" width="739" height="501" key="MultipleFileMergeDialog/60.27.1860.1053@60.27.1860.1053" timestamp="1598079738953" />
-    <state x="501" y="188" width="977" height="737" key="SettingsEditor" timestamp="1598080633333">
-      <screen x="60" y="27" width="1860" height="1053" />
-    </state>
-    <state x="501" y="188" width="977" height="737" key="SettingsEditor/60.27.1860.1053@60.27.1860.1053" timestamp="1598080633333" />
-    <state x="768" y="208" width="434" height="697" key="VcsDiffUtil.ChangesDialog" timestamp="1598080279378">
-      <screen x="60" y="27" width="1860" height="1053" />
-    </state>
-    <state x="768" y="208" width="434" height="697" key="VcsDiffUtil.ChangesDialog/60.27.1860.1053@60.27.1860.1053" timestamp="1598080279378" />
   </component>
 </project>
