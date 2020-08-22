@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dabf94c7-82a2-472e-9cfd-b10138d2fac2" name="Default Changelist" comment="" />
+    <list default="true" id="de8b87af-8f64-4e3c-bd77-28391e3b47eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,5 +65,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="50" key="MergeDialog" timestamp="1598082017662">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="50" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1598082017662" />
+    <state x="272" y="99" key="MultipleFileMergeDialog" timestamp="1598082017673">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="272" y="99" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1598082017673" />
   </component>
 </project>
